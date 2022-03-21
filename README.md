@@ -11,3 +11,11 @@ pink
 indigo
 yellow
 violet
+.........
+apple
+orange
+watermelon
+orange
+strawberry
+banana
+jack fruit
