@@ -8,3 +8,6 @@ brown
 maroon
 orange
 pink
+indigo
+yellow
+violet
